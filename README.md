@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://discord.gg/mGZE39AS3e">Discord</a>
+<a href="https://discord.gg/mGZE39AS3e">在线讨论</a>
 </p>
 
 <p align="center">
