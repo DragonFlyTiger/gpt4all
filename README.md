@@ -36,11 +36,11 @@ GPT4All 运行在我们的合作伙伴 <a href="https://www.paperspace.com/">Pap
 
 GPT4All是一个生态系统，运行**强大的** **可定制化的**大型语言模型，可在消费级CPU和任何GPU上本地化运行。请注意，您的CPU需要支持[AVX 或 AVX2 指令](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)。
 
-在 [文档](https://docs.gpt4all.io)中了解更多.
+在 [文档](https://docs.gpt4all.io) 中了解更多.
 
-A GPT4All model is a 3GB - 8GB file that you can download and plug into the GPT4All open-source ecosystem software. **Nomic AI** supports and maintains this software ecosystem to enforce quality and security alongside spearheading the effort to allow any person or enterprise to easily train and deploy their own on-edge large language models.
+GPT4All模型是一个3GB - 8GB的文件，您可以下载并插入GPT4All开源软件生态系统。**Nomic AI**支持并维护这个软件生态系统，以加强质量和安全性，同时带领任何个人或企业轻松培训和部署他们自己的激动人心的大语言模型。
 
-### What's New ([Issue Tracker](https://github.com/orgs/nomic-ai/projects/2))
+### 最新动态 ([问题追踪](https://github.com/orgs/nomic-ai/projects/2))
 - **October 19th, 2023**: GGUF Support Launches with Support for:
     - Mistral 7b base model, an updated model gallery on [gpt4all.io](https://gpt4all.io), several new local code models including Rift Coder v1.5
     - [Nomic Vulkan](https://blog.nomic.ai/posts/gpt4all-gpu-inference-with-vulkan) support for Q4_0, Q6 quantizations in GGUF.
