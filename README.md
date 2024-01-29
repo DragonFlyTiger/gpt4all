@@ -3,23 +3,23 @@
 <p align="center">开源大语言模型，可以在本地CPU和几乎任何GPU上运行</p>
 
 <p align="center">
-<a href="https://gpt4all.io" target="blank">GPT4All 官方站点和模型库</a>
+<a href="https://gpt4all.io" target="_blank">GPT4All 官方站点和模型库</a>
 </p>
 
 <p align="center">
-<a href="https://docs.gpt4all.io" target="blank">GPT4All 文档</a>
+<a href="https://docs.gpt4all.io" target="_blank">GPT4All 文档</a>
 </p>
 
 <p align="center">
-<a href="https://discord.gg/mGZE39AS3e" target="blank">在线讨论</a>
+<a href="https://discord.gg/mGZE39AS3e" target="_blank">在线讨论</a>
 </p>
 
 <p align="center">
-<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html" target="blank">🦜️🔗 Langchain官方后台</a> 
+<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html" target="_blank">🦜️🔗 Langchain官方后台</a> 
 </p>
 
 <p align="center">
-GPT4All 运行在我们的合作伙伴 <a href="https://www.paperspace.com/" target="blank">Paperspace</a>提供的计算资源上.
+GPT4All 运行在我们的合作伙伴 <a href="https://www.paperspace.com/" target="_blank">Paperspace</a>提供的计算资源上.
 </p>
 
 <p align="center">
