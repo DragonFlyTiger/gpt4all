@@ -3,11 +3,11 @@
 <p align="center">开源大语言模型，可以在本地CPU和几乎任何GPU上运行</p>
 
 <p align="center">
-<a href="https://gpt4all.io">GPT4All Website and Models</a>
+<a href="https://gpt4all.io">GPT4All 官方站点和模型库</a>
 </p>
 
 <p align="center">
-<a href="https://docs.gpt4all.io">GPT4All Documentation</a>
+<a href="https://docs.gpt4all.io">GPT4All 文档</a>
 </p>
 
 <p align="center">
