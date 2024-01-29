@@ -3,36 +3,36 @@
 <p align="center">开源大语言模型，可以在本地CPU和几乎任何GPU上运行</p>
 
 <p align="center">
-<a href="https://gpt4all.io" target="_blank">GPT4All 官方站点和模型库</a>
+<a href="https://gpt4all.io">GPT4All 官方站点和模型库</a>
 </p>
 
 <p align="center">
-<a href="https://docs.gpt4all.io" target="_blank">GPT4All 文档</a>
+<a href="https://docs.gpt4all.io">GPT4All 文档</a>
 </p>
 
 <p align="center">
-<a href="https://discord.gg/mGZE39AS3e" target="_blank">在线讨论</a>
+<a href="https://discord.gg/mGZE39AS3e">在线讨论</a>
 </p>
 
 <p align="center">
-<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html" target="_blank">🦜️🔗 Langchain官方后台</a> 
+<a href="https://python.langchain.com/en/latest/modules/models/llms/integrations/gpt4all.html">🦜️🔗 Langchain官方后台</a> 
 </p>
 
 <p align="center">
-GPT4All 运行在我们的合作伙伴 <a href="https://www.paperspace.com/" target="_blank">Paperspace</a>提供的计算资源上.
+GPT4All 运行在我们的合作伙伴 <a href="https://www.paperspace.com/">Paperspace</a>提供的计算资源上.
 </p>
 
 <p align="center">
   <img width="600" height="365" src="https://user-images.githubusercontent.com/13879686/231876409-e3de1934-93bb-4b4b-9013-b491a969ebbc.gif">
 </p>
 <p align="center">
-Run on an M1 macOS Device (not sped up!)
+在M1 MacOS设备上运行(视频未加速!)
 </p>
 
-## GPT4All: An ecosystem of open-source on-edge large language models.
+## GPT4All: 开源激动人心的大语言模型的生态系统。
 
-> [!IMPORTANT]
-> GPT4All v2.5.0 and newer only supports models in GGUF format (.gguf). Models used with a previous version of GPT4All (.bin extension) will no longer work.
+> [!重要]
+> GPT4All v2.5.0及更新版本仅支持GGUF格式(.gguf)的模型。以前版本的GPT4All(.bin扩展名)使用的模型将不再使用。
 
 GPT4All is an ecosystem to run **powerful** and **customized** large language models that work locally on consumer grade CPUs and any GPU. Note that your CPU needs to support [AVX or AVX2 instructions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions).
 
