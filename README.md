@@ -1,6 +1,6 @@
 <h1 align="center">GPT4All</h1>
 
-<p align="center">Open-source large language models that run locally on your CPU and nearly any GPU</p>
+<p align="center">开源大语言模型，可以在本地CPU和几乎任何GPU上运行</p>
 
 <p align="center">
 <a href="https://gpt4all.io">GPT4All Website and Models</a>
