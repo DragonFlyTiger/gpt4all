@@ -34,9 +34,9 @@ GPT4All 运行在我们的合作伙伴 <a href="https://www.paperspace.com/">Pap
 > [!重要]
 > GPT4All v2.5.0及更新版本仅支持GGUF格式(.gguf)的模型。以前版本的GPT4All(.bin扩展名)使用的模型将不再使用。
 
-GPT4All is an ecosystem to run **powerful** and **customized** large language models that work locally on consumer grade CPUs and any GPU. Note that your CPU needs to support [AVX or AVX2 instructions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions).
+GPT4All是一个生态系统，运行**强大的** **可定制化的**大型语言模型，可在消费级CPU和任何GPU上本地化运行。请注意，您的CPU需要支持[AVX 或 AVX2 指令](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)。
 
-Learn more in the [documentation](https://docs.gpt4all.io).
+在 [文档](https://docs.gpt4all.io)中了解更多.
 
 A GPT4All model is a 3GB - 8GB file that you can download and plug into the GPT4All open-source ecosystem software. **Nomic AI** supports and maintains this software ecosystem to enforce quality and security alongside spearheading the effort to allow any person or enterprise to easily train and deploy their own on-edge large language models.
 
